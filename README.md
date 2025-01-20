@@ -1,6 +1,6 @@
-# Ensembl_Biomart_Project
+# Ensembl Biomart Project
  
-Exercise 1: Finding Mouse Homologs of Human Genes using Ensembl BioMart
+Finding Mouse Homologs of Human Genes using Ensembl BioMart
 Background: Homologous genes are genes that share a common evolutionary ancestor. Between human and mouse, homologous genes often perform similar functions. Ensembl BioMart provides a comprehensive database of gene homology relationships and allows programmatic access to this information.
 
 Task:
